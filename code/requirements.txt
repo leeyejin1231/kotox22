@@ -1,0 +1,11 @@
+six==1.17.0
+hgtk==0.2.1
+openai==1.109.1
+python-dotenv==1.1.1
+pandas==2.3.3
+torch==2.8.0
+transformers==4.56.2
+scikit-learn==1.6.1
+easydict==1.13
+jamo konlpy
+-c conda-forge openjdk=21
